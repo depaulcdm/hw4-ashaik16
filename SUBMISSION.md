@@ -20,7 +20,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Successful build using the Ant+Ivy script #3](images/Ant/3.jpg)
 ![Successful build using the Ant+Ivy script #4](images/Ant/4.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
-![Successful execution of the JAR file #5](images/Ant/4.jpg)
+![Successful execution of the JAR file #5](images/Ant/5.jpg)
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
 - Link to build.xml:- [hello-world/build.xml](hello-world/build.xml)
 - Link to ivy.xml:-[hello-world/ivy.xml](hello-world/ivy.xml)
