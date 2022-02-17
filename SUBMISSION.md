@@ -41,4 +41,5 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [10 pts] A screen capture showing a successful build using the Gradle script.
 ![Successful Gradle build #2](images/Gradle/2.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+**Above screenshot shows the successful execution of JAR file**
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
